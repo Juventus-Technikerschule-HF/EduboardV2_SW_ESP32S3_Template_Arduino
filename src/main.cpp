@@ -2,6 +2,7 @@
 //    Eduboard2 ESP32-S3 Arduino Template
 //    Author: Martin Burger
 //    Juventus Technikerschule
+//    Version: 1.0.0
 //    
 //    This is a example Program and by no means a complete Driver package for all the
 //    Eduboard Hardware. Some Libraries are included for Example purpose.
